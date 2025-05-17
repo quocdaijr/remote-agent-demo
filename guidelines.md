@@ -60,7 +60,7 @@ Content will be migrated from the original [qdjr.dev](https://qdjr.dev/) site, i
 
 ### Prerequisites
 
-- Node.js (v16 or later)
+- Node.js
 - npm or yarn
 
 ### Installation
