@@ -1,0 +1,22 @@
+[
+  {
+    "id": "project-1",
+    "title": "Sample Project 1",
+    "description": "A brief description of the first sample project.",
+    "technologies": ["React", "Next.js", "Tailwind CSS"],
+    "imageUrl": "/images/project1.jpg",
+    "githubUrl": "https://github.com/yourusername/project1",
+    "liveUrl": "https://project1.example.com",
+    "featured": true
+  },
+  {
+    "id": "project-2",
+    "title": "Sample Project 2",
+    "description": "A brief description of the second sample project.",
+    "technologies": ["Node.js", "Express", "MongoDB"],
+    "imageUrl": "/images/project2.jpg",
+    "githubUrl": "https://github.com/yourusername/project2",
+    "liveUrl": "https://project2.example.com",
+    "featured": false
+  }
+]
